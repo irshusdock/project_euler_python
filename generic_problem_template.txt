@@ -1,2 +1,0 @@
-# Solving projecteuler.net/problem=x
-# General Problem Description: 
